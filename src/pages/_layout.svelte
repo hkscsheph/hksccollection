@@ -8,6 +8,7 @@
 	<a href="/scroll"> Scroll </a>
 	<a href="/drag"> Drag </a>
 	<a href="/cat"> Cat </a>
+	<a href="/chart"> Chart </a>
 </nav>
 <!-- <slot /> is for page content -->
 <main>
