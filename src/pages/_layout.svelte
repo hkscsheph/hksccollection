@@ -1,10 +1,10 @@
 <!-- routify:options preload="proximity" -->
 <!-- <nav> is for nav bar -->
 <nav>
-	<code>Provided by src/pages/_layouts.svelte:</code>
 	<a href="/"> Home </a>
 	<a href="/about"> About </a>
 	<a href="/portfolio"> Portfolio </a>
+	<a href="/video"> Video </a>
 </nav>
 <!-- <slot /> is for page content -->
 <main>
