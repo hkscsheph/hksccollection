@@ -5,6 +5,7 @@
 	<a href="/about"> About </a>
 	<a href="/portfolio"> Portfolio </a>
 	<a href="/video"> Video </a>
+	<a href="/scroll"> Scroll </a>
 </nav>
 <!-- <slot /> is for page content -->
 <main>
