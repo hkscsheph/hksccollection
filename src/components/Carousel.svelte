@@ -1,3 +1,4 @@
+<!-- Ref: https://github.com/beyonk-adventures/svelte-carousel/blob/master/src/Carousel.svelte -->
 <div class="carousel">
 	<div class="slides" bind:this={siema}>
 		<slot></slot>
