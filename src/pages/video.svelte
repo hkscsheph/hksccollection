@@ -1,1 +1,1 @@
-<video src="../../public/traffic.mov" controls />
+<video src="/traffic.mov" controls />
