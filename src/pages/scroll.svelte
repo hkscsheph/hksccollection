@@ -69,6 +69,5 @@
 	:global(body) {
 	  margin: 0;
 	  padding: 0;
-	  background-color: rgb(253, 174, 51);
 	}
 </style>

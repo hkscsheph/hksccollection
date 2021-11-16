@@ -6,6 +6,7 @@
 	<a href="/portfolio"> Portfolio </a>
 	<a href="/video"> Video </a>
 	<a href="/scroll"> Scroll </a>
+	<a href="/drag"> Drag </a>
 </nav>
 <!-- <slot /> is for page content -->
 <main>
