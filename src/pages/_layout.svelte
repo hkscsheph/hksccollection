@@ -10,6 +10,7 @@
 	<a href="/cat"> Cat </a>
 	<a href="/chart"> Chart </a>
 	<a href="/p5"> P5 </a>
+	<a href="/3d"> 3D </a>
 </nav>
 <!-- <slot /> is for page content -->
 <main>
