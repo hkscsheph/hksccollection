@@ -22,9 +22,8 @@
     "vite": "^2.0.5"
   },
   "dependencies": {
-    "ammo.js": "0.0.10",
-    "babylonjs": "4.2.0",
     "p5": "1.4.0",
-    "siema": "1.5.1"
+    "siema": "1.5.1",
+    "three": "0.135.0"
   }
 }
